@@ -1,0 +1,1 @@
+A model that can predict if the user has a brain tumor, and classify the tumor based on the MRI scan given.
